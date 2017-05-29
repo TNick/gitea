@@ -20,7 +20,6 @@
 
 The goal of this project is to make the easiest, fastest, and most painless way of setting up a self-hosted Git service. Using Go, this can be done with an independent binary distribution across **all platforms** which Go supports, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures. Want to try it before doing anything else? Do it [with the online demo](https://try.gitea.io/)! This project has been [forked](https://blog.gitea.io/2016/12/welcome-to-gitea/) from [Gogs](https://gogs.io).
 
-## Notes
 
 1. **YOU MUST READ THE [CONTRIBUTORS GUIDE](CONTRIBUTING.md) BEFORE STARTING TO WORK ON A PULL REQUEST.**
 2. If you found a vulnerability in the project, please write privately to **security@gitea.io**. Thanks!
